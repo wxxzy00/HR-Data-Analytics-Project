@@ -21,12 +21,17 @@ This case study explores the relationships between products, discounts, reviews 
 
 ## Visual
 
-| Visual                  |  Description        |
+ Visual attatched to this Cast Study:      
 
-| EXCEL PRODUCT DASHBOARD |  A Visualization illustrating the following data;
+ 'EXCEL PRODUCT DASHBOARD'  -   A Visualization illustrating the following data;
+ 
 
 -Potential Revenue by Category
+
 -Sum of Products with discount greater than 50%
+
 -No. of unique products per price range
+
 -Categories with the highest discount
+
 -No. of products under each category
