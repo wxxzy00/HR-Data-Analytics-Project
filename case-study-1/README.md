@@ -7,7 +7,7 @@ This case study explores the relationships between products, discounts, reviews 
 
 |File/Folder          |    Description     |
 |---------------------|--------------------|
-|'Amazon Cast study'                   | Raw Employee data containing product details, actual and discount prices and reviews |
+|'Amazon Case study'                   | Raw Employee data containing product details, actual and discount prices and reviews |
 |'Average Discount Percentage'         | Average Discount Percentage By Product Category |
 |'Product under each Category'         | Number of Products listed under each category   |
 |'Total number of reviews per category'| Total number of reviews per category  |
